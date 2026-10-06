@@ -7,7 +7,7 @@ Stand: 2026-10-06. Der bisherige Leonie-Post (sichtbares Datum 17. März, kein G
 `[blau + fett]` = im OnlyFans-Editor blau und fett markieren. Alles andere normaler Text.
 
 ```text
-[blau + fett] heyyy you, your little thank you gift is waiting in my dms 🎁 just send me a quick hi and its yours
+[blau + fett] im so happy youre here 🥹 i saved a little thank you gift just for you in my dms 🎁 send me a quick hi and its yours
 
 little hint: after this youll wanna call me your cowgirl 🙈
 
