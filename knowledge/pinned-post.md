@@ -7,11 +7,11 @@ Stand: 2026-10-06. Der bisherige Leonie-Post (sichtbares Datum 17. März, kein G
 `[blau + fett]` = im OnlyFans-Editor blau und fett markieren. Alles andere normaler Text.
 
 ```text
-[blau + fett] psst... your little thank you gift is waiting in my dms 🎁 just send me a quick hi and its yours 😏
+[blau + fett] hey cowboy 🤠 your little thank you gift is waiting in my dms 🎁 just send me a quick hi and its yours
 
 little hint: after this youll wanna call me your cowgirl 🙈
 
-and if you wanna get to know the horse girl behind all this, my dms are where i really open up 🤠
+and if you wanna get to know the horse girl behind all this, my dms are where i really open up 🫶🏼
 ```
 
 Bild: das bestehende Scheunen-/Cowboyhut-Bild behalten. Optional ein zweites Bild dazu (Karussell wie bei Leni).
