@@ -9,7 +9,7 @@ Stand: 2026-10-06. Der bisherige Leonie-Post (sichtbares Datum 17. März, kein G
 ```text
 [blau + fett] psst... your little thank you gift is waiting in my dms 🎁 just send me a quick hi and its yours 😏
 
-little hint: the cowboy hat stays on... the rest doesnt 🙈
+little hint: the boots stay on... the rest doesnt 🙈
 
 and if you wanna get to know the horse girl behind all this, my dms are where i really open up 🤠
 ```
@@ -26,7 +26,7 @@ Bild: das bestehende Scheunen-/Cowboyhut-Bild behalten. Optional ein zweites Bil
 
 ### Pflichtbedingungen vor Veröffentlichung
 
-1. Das Geschenk ist ein weiteres Bild aus demselben Scheunen-Shooting, mit Cowboyhut und freizügiger als das Pinned-Bild. Sonst ist der `little hint` falsch und muss raus.
+1. Das Geschenk ist ein Bild, auf dem Leonie Boots trägt und sonst nichts, idealerweise aus demselben Scheunen-Shooting. Sonst ist der `little hint` falsch und muss raus.
 2. Jeder, der schreibt, bekommt das Geschenk gratis und ungesperrt, auch langjährige Subs. Kein PPV.
 3. Neu veröffentlichen statt bearbeiten, damit das Datum aktuell ist. Danach monatlich mit gleichem Bild und Text erneut posten.
 4. Welcome-Message-Read- und Answer-Rate vor dem Austausch notieren und nach ein bis zwei Wochen vergleichen.
