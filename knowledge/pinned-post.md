@@ -7,7 +7,7 @@ Stand: 2026-10-06. Der bisherige Leonie-Post (sichtbares Datum 17. März, kein G
 `[blau + fett]` = im OnlyFans-Editor blau und fett markieren. Alles andere normaler Text.
 
 ```text
-[blau + fett] psst... your little thank you gift is waiting in my dms 🎁 just hit the message button and claim it 😏
+[blau + fett] psst... your little thank you gift is waiting in my dms 🎁 just send me a quick hi and its yours 😏
 
 little hint: the cowboy hat stays on... the rest doesnt 🙈
 
@@ -19,7 +19,7 @@ Bild: das bestehende Scheunen-/Cowboyhut-Bild behalten. Optional ein zweites Bil
 ### Was von wem übernommen ist
 
 - Geschenk in der ersten Zeile, blau, als `your gift ... waiting`: Leni, Arya, Sarah.
-- Konkrete Handlung `hit the message button`: Arya (`click the message icon`).
+- Konkrete Handlung `send me a quick hi`: Der Fan muss schreiben, nicht nur den Chat öffnen. Wie Arya (`send me a private message ... and I'll send you your surprise`).
 - `little hint` auf den Inhalt des Geschenks: Leni.
 - Persönlichkeit nur kurz am Ende: Arya, angepasst auf Leonies Horsegirl-Branding.
 - `thank you gift` statt `free surprise`: gleiches Wort wie in Leonies Promotion, damit Fans es wiedererkennen.
