@@ -8,4 +8,5 @@
 - Chatting-, Backread-, Aftercare-, NS-Analyse-, Feed-, Story- und Pinned-Post-SOPs ergänzt.
 - Pinned-Post-Vergleich aus sieben sichtbaren Referenzprofilen dokumentiert.
 - Datenschutz-, Wahrheits- und Plattformregeln ergänzt.
+- Pinned-Post-Referenzanalyse (Arya, Leni, Jenny, Sarah, Lina-Bio) und neue Leonie-Fassung mit Geschenk-Einstieg in `knowledge/pinned-post.md`; alter Leonie-Text entfernt.
 

@@ -17,6 +17,7 @@ Die vollständige allgemeine Feedpost-SOP liegt unter:
 ## Pinned Post
 
 - Muss einen konkreten, einfachen DM-Einstieg geben.
+- Stärkstes Muster laut Referenzvergleich: Geschenk und DM-Aufforderung in der ersten Zeile, blau und fett. Details: `knowledge/pinned-post.md`.
 - Keine unbestätigte Gratisüberraschung.
 - Persönlichkeit vor reiner Verkaufssprache.
 - Nach Änderung Read- und Answer-Rate beobachten.
