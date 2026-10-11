@@ -9,16 +9,16 @@ Ersetzt den alten Sarah-Post (`(claim your gift here)` / `welcome to my little p
 ```text
 [blau + fett] your free gift is already waiting in my dms 🎁 send me a quick hi and its yours
 
-little hint: the red lace doesnt stay on in that one 😏
+little hint: in that one i finally turn around 😏
 
 its just my way to break the ice between us… the rest i only show in private 💗
 ```
 
-Bild: unverändert (Bett, Blick über die Schulter, rote Spitze, Nylons).
+Bild (geändert 2026-10-11): nackt von hinten auf dem Bett kniend, Blick über die Schulter, rote Haare, Schmetterlings-Tattoo. Die alte Hint-Zeile zur roten Spitze passte dazu nicht mehr und wurde ersetzt; neue Zeile 2 noch nicht von André freigegeben.
 
 Bedingungen:
 
-- Geschenk-Bild ist gratis, ungesperrt und zeigt Sarah ohne die rote Spitze.
+- Geschenk-Bild ist gratis, ungesperrt und zeigt Sarah von vorne.
 - Jeder, der `hi` schreibt, bekommt es, auch langjährige Subs.
 - `only show in private` muss stimmen: Im Chat gibt es Content, der nicht im Feed ist.
 - Read-Rate der Welcome Message nach 7 bis 14 Tagen gegen den Ausgangswert unter 70 % vergleichen. Bis dahin nichts weiter ändern.
@@ -28,7 +28,7 @@ Warum besser als der alte Text:
 | Punkt | Alt | Neu |
 |---|---|---|
 | Erste Zeile | `claim your gift here`: wo, wie, gratis offen | Ort, gratis und Handlung in einer Zeile |
-| Neugier | keine | Hinweis auf sichtbares Detail (rote Spitze) |
+| Neugier | keine | Hinweis auf das, was das Bild nicht zeigt (sie dreht sich um) |
 | Wärme | `break the ice between us` | übernommen |
 | Grund weiterzuschreiben | `everything you came for (and even more)`, Agenturvorlage | `the rest i only show in private`, eigener Text |
 | Füllsätze | `welcome ...`, `see you there!` | keine |
