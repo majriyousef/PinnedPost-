@@ -14,7 +14,7 @@ little hint: in that one i finally turn around 😏
 its just my way to break the ice between us… the rest i only show in private 💗
 ```
 
-Bild (geändert 2026-10-11): nackt von hinten auf dem Bett kniend, Blick über die Schulter, rote Haare, Schmetterlings-Tattoo. Die alte Hint-Zeile zur roten Spitze passte dazu nicht mehr und wurde ersetzt; neue Zeile 2 noch nicht von André freigegeben.
+Bild (geändert 2026-10-11): nackt von hinten auf dem Bett kniend, Blick über die Schulter, rote Haare, Schmetterlings-Tattoo. Die freigegebene Hint-Zeile zur roten Spitze passt dazu nicht mehr; Zeilen 2 und 3 sind offen, siehe unten.
 
 Bedingungen:
 
@@ -63,6 +63,24 @@ Drei Zeilen reichen. Nur Zeile 1 markieren.
 
 OnlyFans zieht Leerzeilen sonst zusammen. Hinter jede Zeile außer der letzten etwa 100-mal `U+200E` (Left-to-Right Mark) plus Leerzeichen setzen, dann eine Leerzeile. Am einfachsten aus einem bestehenden Post kopieren. Vor dem Posten in der Vorschau prüfen.
 
-## Ideen ohne Freigabe
+## Sarah: offen nach Bildwechsel (2026-10-12)
 
-- Jenny: `little hint: the boots stay on... the rest doesnt 🙈` passt laut Yousef zu Jennys Welcome-Message-Geschenk. Vor Verwendung prüfen, ob das Geschenk Boots zeigt.
+Zeile 1 bleibt (von Yousef bestätigt). Zeilen 2 und 3 mit Hint auf rote Spitze, `turn around`, `view from the front` und `things i probably shouldnt show anyone` wurden abgelehnt. Aktueller Vorschlag nach Lina- und Marlene-Muster, noch nicht freigegeben:
+
+```text
+[blau + fett] your free gift is already waiting in my dms 🎁 send me a quick hi and its yours
+
+before you ask, yes its all mine 🍑 and yes its even softer than it looks 😳
+
+and if you wanna get to know me better, just message me… i love chatting, sharing my daily life and spoiling you with pics i dont post here 💗
+```
+
+Vor Freigabe klären: `all mine` (kein Eingriff) bestätigt? Gibt es Chat-Bilder, die nicht im Feed sind?
+
+## Umgesetzt bei anderen Models
+
+- Jenny nutzt seit Oktober die Leonie-Struktur mit `little hint: the boots stay on... the rest doesnt 🙈`, passend zu ihrem Welcome-Message-Geschenk.
+
+## Referenzen
+
+Aktuelle Pinned Posts aller Vergleichsmodels mit Resonanzwerten: `knowledge/pinned-post-referenzen.md`.

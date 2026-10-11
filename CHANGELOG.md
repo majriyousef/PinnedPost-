@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-12
+
+- `knowledge/pinned-post-referenzen.md`: aktuelle Pinned Posts von Emma Clarke, Marlene, Lina, Arya, Alina, Leni und Jenny mit Resonanzwerten und Mustern; ältere Fassungen archiviert.
+- Sarah-Pinned-Post nach Bildwechsel: Zeilen 2 und 3 offen, aktueller Vorschlag dokumentiert.
+
 ## 2026-10-11
 
 - `knowledge/pinned-post-handwerk.md`: modelübergreifende Pinned-Post-Lehren, abgelehnte Formulierungen, Absatz-Technik und von André freigegebener Sarah-Pinned-Post.
