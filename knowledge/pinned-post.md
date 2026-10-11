@@ -86,7 +86,7 @@ see you there!
 - Geschenk zusätzlich blau in Klammern.
 - Bild: Selfie, Zunge, Hand auf der Brust.
 
-### Sarah (Pinned)
+### Sarah (Pinned, alt; am 2026-10-11 ersetzt, siehe `knowledge/pinned-post-handwerk.md`)
 
 ```text
 [blau] (claim your gift here)

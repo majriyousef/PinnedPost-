@@ -13,13 +13,14 @@ Die vollständige allgemeine Feedpost-SOP liegt unter:
 - Alte starke Bilder dürfen nach ausreichendem Abstand erneut verwendet werden.
 - Letzte vier bis fünf Posts zuerst prüfen: Caption, CTA, Preis/Aktion, Sichtbarkeit, Redundanz.
 - Einen bestehenden Post bearbeiten; nur ersetzen, wenn er nicht sinnvoll rettbar ist.
+- Manager-Anweisung 2026-10-11: In neuen Feedposts dürfen Poll und CTA wieder eingesetzt werden.
 
 ## Pinned Post
 
 - Muss einen konkreten, einfachen DM-Einstieg geben.
-- Stärkstes Muster laut Referenzvergleich: Geschenk und DM-Aufforderung in der ersten Zeile, blau und fett. Details: `knowledge/pinned-post.md`.
+- Stärkstes Muster laut Referenzvergleich: Geschenk und DM-Aufforderung in der ersten Zeile, blau und fett. Details: `knowledge/pinned-post.md` und `knowledge/pinned-post-handwerk.md`.
 - Keine unbestätigte Gratisüberraschung.
-- Persönlichkeit vor reiner Verkaufssprache.
+- Persönlichkeit kurz und nach dem Anreiz, aber keine reine Verkaufssprache.
 - Nach Änderung Read- und Answer-Rate beobachten.
 
 ## Story

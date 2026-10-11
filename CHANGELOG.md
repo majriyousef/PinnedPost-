@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-11
+
+- `knowledge/pinned-post-handwerk.md`: modelübergreifende Pinned-Post-Lehren, abgelehnte Formulierungen, Absatz-Technik und von André freigegebener Sarah-Pinned-Post.
+- Feed-SOP: Poll und CTA in neuen Feedposts wieder erlaubt.
+
 ## 2026-10-06
 
 - Repository aus den sichtbaren aktiven und archivierten Codex-Chats aufgebaut.
