@@ -20,6 +20,7 @@ Vor jeder Abgabe eines Pinned-Post- oder WM-Textes Punkt für Punkt prüfen. Ein
 8. Nur Alltagswörter, keine Wortspiele, die man erst verstehen muss.
 9. Höchstens zwei kurze Gedanken pro Nachricht, keine Nebensätze.
 10. Grammatik korrekt.
+10a. Ergibt Sinn: Jeder Satz folgt logisch aus dem vorherigen, Bindewörter (`or`, `and`) beziehen sich auf etwas, das in derselben Nachricht steht; keine Andeutung, die einen fehlenden Kontext (Szene, frühere Caption) braucht.
 
 ## D. Konsistenz
 
@@ -27,6 +28,7 @@ Vor jeder Abgabe eines Pinned-Post- oder WM-Textes Punkt für Punkt prüfen. Ein
 12. Gleicher Begriff im ganzen Flow (nicht `gift` hier und `surprise` dort).
 13. Schreibstil des Models eingehalten (Groß-/Kleinschreibung, Apostrophe).
 14. Höchstens zwei Emojis pro Nachricht; kein Teufel-Emoji.
+14a. Alleinstellung: Mindestens ein Element, das nur zu diesem Model passt (wie `cowboy` bei Jenny, `my boobs are involved` bei Lina). Kein Satz, den jedes Model schreiben könnte (`i don't bite`), und keine veralteten Merkmale.
 
 ## E. Wahrheit und Regeln
 
