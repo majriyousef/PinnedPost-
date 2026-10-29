@@ -96,9 +96,11 @@ Vorschlag für WM-Nachrichten 1 bis 3 (Rest des Flows unverändert; in 4.1/4.2 `
 
 ```text
 1. your free gift is already waiting for you 🎁 i'm sarah, tell me your name and it's yours 😇
-2. your gift is still waiting 😏 are you gonna keep your name a secret?
+2. or are you gonna keep your name a secret? 😏
 3. just say hi and it's yours 🎁 little hint: you get to see my front 😳
 ```
+
+Die Nachrichten kommen im Minutenabstand: Der Block muss sich am Stück natürlich lesen, nur Nachricht 3 muss allein als Vorschau funktionieren.
 
 Bedingungen: Video ab 4.1/4.2 gratis und ungesperrt; jede Antwort (nicht nur ein Name) löst das Video aus; André segnet das Streichen von `thanks for the sub` ab. Geprüft mit `templates/prime-checkliste-pp-wm.md`.
 

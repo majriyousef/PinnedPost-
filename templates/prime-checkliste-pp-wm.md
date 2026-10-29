@@ -5,7 +5,8 @@ Vor jeder Abgabe eines Pinned-Post- oder WM-Textes Punkt für Punkt prüfen. Ein
 ## A. Read (Vorschau)
 
 1. Grund zum Öffnen (Geschenk) steht in den ersten Wörtern jeder Nachricht.
-2. Jede Nachricht ist allein verständlich, auch ohne die vorherigen.
+2. Abstand zwischen den Nachrichten klären. Bei Minuten-Abstand liest der Fan alle Nachrichten am Stück: Sie müssen sich wie ein natürlicher Block lesen, ohne Wiederholung. Allein verständlich muss nur die letzte Nachricht sein, weil sie in der Chatliste als Vorschau steht.
+2a. Zeitwörter passen zum Abstand (`still` nicht nach wenigen Minuten).
 3. Keine Füllsätze am Anfang (`thanks for the sub`, `welcome to my page`).
 
 ## B. Answer
