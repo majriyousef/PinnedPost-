@@ -95,10 +95,12 @@ Daten (NS → Read → Answer → Selling → PPV3, Answer in % der Leser, Selli
 Vorschlag für WM-Nachrichten 1 bis 3 (Rest des Flows unverändert; in 4.1/4.2 `surprise`/`überraschung` durch `gift`/`geschenk` ersetzen):
 
 ```text
-1. your free gift is already waiting for you 🎁 i'm sarah, tell me your name and it's yours 😇
+1. your free gift is already waiting for you 🎁 i'm sarah btw… what's your name so i know who it's for? 😇
 2. or are you gonna keep your name a secret? 😏
 3. just say hi and it's yours… and if you ask nicely, i'll show you even more 💋
 ```
+
+Nachricht 1 übernimmt `btw` und `so i know who it's for` aus einer früheren Fassung: wärmer und logischer als `tell me your name and it's yours`, und Nachricht 2 knüpft mit `or` direkt an eine Frage an. Die Länge von Nachricht 1 ist unkritisch, weil bei Minutenabstand Nachricht 3 in der Vorschau steht.
 
 Die Nachrichten kommen im Minutenabstand: Der Block muss sich am Stück natürlich lesen, nur Nachricht 3 muss allein als Vorschau funktionieren.
 
