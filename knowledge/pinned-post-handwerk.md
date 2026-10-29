@@ -79,7 +79,7 @@ Vor Freigabe klären: `all mine` (kein Eingriff) bestätigt? Gibt es Chat-Bilder
 
 ## Sarah: Welcome-Message-Test (Vorschlag 2026-10-29, nicht freigegeben)
 
-Hinweis 2026-10-29 (Yousef): Sarah ist keine Rothaarige mehr. `redhead` und rote Haare nicht mehr als USP verwenden; die Angabe `mature curvy redhead` im Feedpost-Masterbriefing ist insoweit veraltet. Nachricht 3 soll wie bei Jenny (`cowboy`) und Lina (`my boobs are involved`) ein Sarah-spezifisches Merkmal enthalten. Abgelehnt: `don't be shy` (spricht Nicht-Leser falsch an), `i don't bite` (austauschbar), `redhead` (veraltet), `nylons` (missverständlich), `hurry up… or i'll start without you` (ergibt ohne Szene keinen Sinn), `honey` (Wort ohne Funktion). Gewählt: Hinweis auf das Geschenk, der wörtlich Sarahs Pinned Post aufgreift (`little hint`, `see my front`); Kein Spoiler (`front`, `naked` abgelehnt), kein zweites 🎁, `you'll wanna open it when you're alone` und `a grown woman knows exactly what you like` (ergibt keinen Sinn: sie kennt ihn noch nicht) abgelehnt. Gewählt: Vergleich mit Sarahs Pinned-Bild nach Leni-/Alina-Muster (`even better than this pic`). Bedingung: Das Video zeigt mehr als das Pinned-Bild.
+Hinweis 2026-10-29 (Yousef): Sarah ist keine Rothaarige mehr. `redhead` und rote Haare nicht mehr als USP verwenden; die Angabe `mature curvy redhead` im Feedpost-Masterbriefing ist insoweit veraltet. Nachricht 3 soll wie bei Jenny (`cowboy`) und Lina (`my boobs are involved`) ein Sarah-spezifisches Merkmal enthalten. Abgelehnt: `don't be shy` (spricht Nicht-Leser falsch an), `i don't bite` (austauschbar), `redhead` (veraltet), `nylons` (missverständlich), `hurry up… or i'll start without you` (ergibt ohne Szene keinen Sinn), `honey` (Wort ohne Funktion). Gewählt: Hinweis auf das Geschenk, der wörtlich Sarahs Pinned Post aufgreift (`little hint`, `see my front`); Kein Spoiler (`front`, `naked` abgelehnt), kein zweites 🎁, `you'll wanna open it when you're alone` und `a grown woman knows exactly what you like` (ergibt keinen Sinn: sie kennt ihn noch nicht) abgelehnt. Danach Wunsch: komplett neuer Ansatz ohne `little hint`. Gewählt: Sarahs eigene Pinned-Post-Formulierung `if you ask nicely` als Aussicht auf mehr nach dem Geschenk (kein Spoiler, leitet ins Selling über).
 
 Daten (NS → Read → Answer → Selling → PPV3, Answer in % der Leser, Selling in % der Antwortenden, PPV3 in % der Sellings):
 
@@ -97,7 +97,7 @@ Vorschlag für WM-Nachrichten 1 bis 3 (Rest des Flows unverändert; in 4.1/4.2 `
 ```text
 1. your free gift is already waiting for you 🎁 i'm sarah, tell me your name and it's yours 😇
 2. or are you gonna keep your name a secret? 😏
-3. just say hi and it's yours… little hint: even hotter than my pinned pic 😳
+3. just say hi and it's yours… and if you ask nicely, i'll show you even more 💋
 ```
 
 Die Nachrichten kommen im Minutenabstand: Der Block muss sich am Stück natürlich lesen, nur Nachricht 3 muss allein als Vorschau funktionieren.
