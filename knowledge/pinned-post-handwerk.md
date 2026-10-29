@@ -79,6 +79,8 @@ Vor Freigabe klären: `all mine` (kein Eingriff) bestätigt? Gibt es Chat-Bilder
 
 ## Sarah: Welcome-Message-Test (Vorschlag 2026-10-29, nicht freigegeben)
 
+Hinweis 2026-10-29 (Yousef): Sarah ist keine Rothaarige mehr. `redhead` und rote Haare nicht mehr als USP verwenden; die Angabe `mature curvy redhead` im Feedpost-Masterbriefing ist insoweit veraltet. Nachricht 3 soll wie bei Jenny (`cowboy`) und Lina (`my boobs are involved`) ein Sarah-spezifisches Merkmal enthalten; `i don't bite` wurde als austauschbar abgelehnt.
+
 Daten (NS → Read → Answer → Selling → PPV3, Answer in % der Leser, Selling in % der Antwortenden, PPV3 in % der Sellings):
 
 | Zeitraum | NS | Read | Answer | Selling | PPV3 |
