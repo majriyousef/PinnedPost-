@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-29
+
+- `templates/prime-checkliste-pp-wm.md`: verbindliche Prüfliste für Pinned-Post- und WM-Texte.
+- Sarah: WM-Analyse mit Fallzahlen und WM-Testvorschlag in `knowledge/pinned-post-handwerk.md`.
+
 ## 2026-10-12
 
 - `knowledge/pinned-post-referenzen.md`: aktuelle Pinned Posts von Emma Clarke, Marlene, Lina, Arya, Alina, Leni und Jenny mit Resonanzwerten und Mustern; ältere Fassungen archiviert.

@@ -22,6 +22,7 @@ Die vollständige allgemeine Feedpost-SOP liegt unter:
 - Keine unbestätigte Gratisüberraschung.
 - Persönlichkeit kurz und nach dem Anreiz, aber keine reine Verkaufssprache.
 - Nach Änderung Read- und Answer-Rate beobachten.
+- Vor jeder Abgabe eines Pinned-Post- oder WM-Textes `templates/prime-checkliste-pp-wm.md` vollständig durchgehen.
 
 ## Story
 

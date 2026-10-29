@@ -77,6 +77,29 @@ and if you wanna get to know me better, just message me… i love chatting, shar
 
 Vor Freigabe klären: `all mine` (kein Eingriff) bestätigt? Gibt es Chat-Bilder, die nicht im Feed sind?
 
+## Sarah: Welcome-Message-Test (Vorschlag 2026-10-29, nicht freigegeben)
+
+Daten (NS → Read → Answer → Selling → PPV3, Answer in % der Leser, Selling in % der Antwortenden, PPV3 in % der Sellings):
+
+| Zeitraum | NS | Read | Answer | Selling | PPV3 |
+|---|---|---|---|---|---|
+| 05.–11.10. (vor PP-Change) | 77 | 49 (63,6 %) | 35 (71,4 %) | 23 (65,7 %) | 4 (17,4 %) |
+| 13.–27.10. (nach PP-Change) | 237 | 160 (67,5 %) | 134 (83,8 %) | 77 (57,5 %) | 6 (7,8 %) |
+
+- Belegt: Answer pro NS 45,5 % → 56,5 %; Selling pro NS 29,9 % → 32,5 %.
+- Nicht belegt: Read-Anstieg (Schwankung bei 237 NS etwa ±6 Pp), PPV3-Rückgang (4 vs. 6 Käufe).
+- Störfaktoren: NS pro Tag 11,0 → 15,8; Neuabo-Aktion lief am 12.10. aus; WM seit 15.09. unverändert.
+
+Vorschlag für WM-Nachrichten 1 bis 3 (Rest des Flows unverändert; in 4.1/4.2 `surprise`/`überraschung` durch `gift`/`geschenk` ersetzen):
+
+```text
+1. your free gift is already waiting for you 🎁 i'm sarah, tell me your name and it's yours 😇
+2. your gift is still waiting 😏 or are you gonna keep your name a secret?
+3. don't be shy 🙈 just say hi and it's yours 🎁
+```
+
+Bedingungen: Video ab 4.1/4.2 gratis und ungesperrt; jede Antwort (nicht nur ein Name) löst das Video aus; André segnet das Streichen von `thanks for the sub` ab. Geprüft mit `templates/prime-checkliste-pp-wm.md`.
+
 ## Umgesetzt bei anderen Models
 
 - Jenny nutzt seit Oktober die Leonie-Struktur mit `little hint: the boots stay on... the rest doesnt 🙈`, passend zu ihrem Welcome-Message-Geschenk.
