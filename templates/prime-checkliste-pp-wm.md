@@ -22,6 +22,8 @@ Vor jeder Abgabe eines Pinned-Post- oder WM-Textes Punkt für Punkt prüfen. Ein
 9. Höchstens zwei kurze Gedanken pro Nachricht, keine Nebensätze.
 10. Grammatik korrekt.
 10a. Ergibt Sinn: Jeder Satz folgt logisch aus dem vorherigen, Bindewörter (`or`, `and`) beziehen sich auf etwas, das in derselben Nachricht steht; keine Andeutung, die einen fehlenden Kontext (Szene, frühere Caption) braucht.
+10b. Kein Satz setzt Wissen voraus, das das Model nicht haben kann (z. B. seine Vorlieben, bevor er geantwortet hat).
+10c. Ein `little hint` bezieht sich wirklich auf das Geschenk und vergleicht es mit etwas, das der Fan schon gesehen hat, oder deutet etwas daran an.
 
 ## D. Konsistenz
 
